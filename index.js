@@ -8,7 +8,7 @@
 
 
 // var figlet = require('figlet'); 
-// figlet('SIBAL', function(err, data) {
+// figlet('NEW', function(err, data) {
 //     if (err) {
 //         console.log('Something went wrong...');
 //         console.dir(err);
